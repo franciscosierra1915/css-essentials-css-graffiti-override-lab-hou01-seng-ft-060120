@@ -15,3 +15,7 @@ div#wall vid.parent #tag-5.slick {
   display: none;
 }
 
+div#wall vid.parent div:last-child > div#tag-6 {
+  display: none;
+}
+
