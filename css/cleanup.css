@@ -6,6 +6,7 @@
   display: none;
 }
 
-#tag-2 .slick {
+#tag-2,
+#tag-3{
   display: none;
 }
